@@ -1,0 +1,12 @@
+.placeInput{
+    border: none;
+    outline: none;
+    font-size: 20px;
+    width: 100%;
+}
+.restaurantInput{
+    border: none;
+    outline: none;
+    font-size: 20px;
+    width: 300px;
+}
